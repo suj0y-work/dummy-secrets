@@ -108,9 +108,13 @@ STRIPE_SECRET_KEY = 'sk_live_abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNO
 GENERIC_SECRET_1 = 'ax7HgEYJ129AFgFeQW+Mxfg7eVshNSOGPw6RvJF/+Qc='
 GENERIC_SECRET_2 = '318cce3d-ab3f-5f1e-beef-fd5ac9bb4f49'
 
-# Passwords
+# Password-1
 username = 'naruto'
 password = 'hinata@123'
+
+# Password-2
+username = 'naruto'
+password = 'hinata'
 
 # JWT token
 JWT = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiZXhwIjoxNTE2MjM5MDIyLCJwYXNzd29yZCI6IklqNzg2I2I0bGwxIn0.WRqpzRexYnJzNk0y4a-IDb4DaFjPVsdc0IjQrrTFcjc'
@@ -127,3 +131,11 @@ password = 'm42ploz2wd'
 
 ## Base64 low entropy
 B64_LOW = 'c2VjcmV0ID0geG9iMXhvYjF4b2IxeG9iMXhvYjF4b2IxeG9iMQ=='
+
+## Basic Authentication
+http://admin:admin@target.com 
+    
+## Okta_TOKEN GENERATED
+string token = "00iqSYKIphXdpEWH5WDH7JwOkw7RXeIw31lMCMTvO7";
+
+
