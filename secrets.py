@@ -138,4 +138,11 @@ http://admin:admin@target.com
 ## Okta_TOKEN GENERATED
 string token = "00iqSYKIphXdpEWH5WDH7JwOkw7RXeIw31lMCMTvO7";
 
+## Bitbucket 
+const BITBUCKET_CLIENT_ID = "ajC8P25UUCRd5wSFvS"
+const BITBUCKET_CLIENT_SECRET = "6K2vvBdjQFeas5YXLCup6KtzqBhcK73e"
+
+client_id: ajC8P25UUCRd5wSFvS
+client_secret: 6K2vvBdjQFeas5YXLCup6KtzqBhcK73e
+
 
